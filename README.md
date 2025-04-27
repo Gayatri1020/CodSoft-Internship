@@ -17,7 +17,7 @@ CodSoft Web Development Internship.
 # Task 2 - Landing Page
 **"It seems like you want a landing page with a clean, engaging design that highlights the creation of mood-based playlists."**
 ## Main Features of the Landing Page:
-# Logo and Navigation: The page has a fixed, colorful navigation bar with a logo and menu options. A toggle button for smaller screens enables mobile navigation.**
+## Logo and Navigation: The page has a fixed, colorful navigation bar with a logo and menu options. A toggle button for smaller screens enables mobile navigation.**
 ## Hero Section:
 - **A bold and dynamic heading that stands out: "Music for your current mood".**
 - **A subheading encourages users to create playlists and share them with friends.**
