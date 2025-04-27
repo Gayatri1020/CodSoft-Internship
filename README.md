@@ -35,10 +35,10 @@ CodSoft Web Development Internship.
 ## The main feature of creating this calculator includes:
 
 - **Responsive Grid Layout** : `.keys` class uses `display: grid;`  with `grid-template-columns: repeat(4, 1fr);` to arrange the calculator buttons in a responsive grid.
-- **Interactive Display** : The `.display` class updates the content dynamically, and  JavaScript handles the input and calculation logic, updating the display accordingly.
+- **Interactive Display** : The `.display` class updates the content dynamically and JavaScript handles the input and calculation logic, updating the display accordingly.
 - **Operator Functionality** : In JavaScript code, I have logic to handle different operators (`add, subtract, multiply, divide`), as well as the `equal` function to calculate the result.
-- **Clear and Equal Buttons** : The "AC" button clears the display, while the `equal` button triggers the calculation.
-- **Styling and Animations** : The CSS includes a gradient background animation applied to the body and `.popup` class, along with smooth hover transitions for buttons.
+- **Clear and Equal Buttons** : The "AC" button clears the display while the `equal` button triggers the calculation.
+- **Styling and Animations** : The CSS includes a gradient background animation applied to the body and `.popup` class along with smooth hover transitions for buttons.
 - **Popup Feature** : The `.popup` and `.popup-content` classes define a modal that uses an animated gradient background. There's also a close button in the modal (`.close-btn`).
 
 
