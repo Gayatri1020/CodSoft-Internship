@@ -24,9 +24,9 @@ CodSoft Web Development Internship.
 - **A bold and dynamic heading that stands out** : "`Music for your current mood`".
 - A subheading encourages users to create playlists and share them with friends.
 - A description highlights the uniqueness of the service by focusing on mood-based music curation.
-- Call-to-action buttons leading to Google Play and the App Store.
+- Call-to-action buttons leading to `Google Play` and the `App Store`.
 ## Background and Design:
-- A visually striking background image related to music, creating a mood-driven ambiance.
+- A visually striking background image related to music creating a mood-driven ambiance.
 - The hero section uses animations like sliding in and glowing effects for a more interactive user experience.
 
 
