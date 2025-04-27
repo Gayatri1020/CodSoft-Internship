@@ -34,7 +34,7 @@ CodSoft Web Development Internship.
 # Task 3 - Calculator.
 ## The main feature of creating this calculator includes:
 
-- **Responsive Grid Layout** : Your .keys class uses display: grid; with grid-template-columns: repeat(4, 1fr); to arrange the calculator buttons in a responsive grid.
+- **Responsive Grid Layout** : Your .keys class uses -'display: grid'; with -'grid-template-columns: repeat(4, 1fr);' to arrange the calculator buttons in a responsive grid.
 - **Interactive Display** : The .display class updates the content dynamically, and your JavaScript handles the input and calculation logic, updating the display accordingly.
 - **Operator Functionality** : In the JavaScript code, you have logic to handle different operators (add, subtract, multiply, divide), as well as the equal function to calculate the result.
 - **Clear and Equal Buttons** : The "AC" button clears the display, while the equal button triggers the calculation.
